@@ -43,3 +43,7 @@ button {
 .relative {
     position: absolute;
 }
+
+.red {
+    background-color: red;
+}
